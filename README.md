@@ -29,6 +29,12 @@ http://127.0.0.1:8000/api/movies
 
 http://127.0.0.1:8000/api/movie/1
 
+OR
+
+https://wadereynes.com/api/movies
+
+https://wadereynes.com/api/movies/1
+
 ```
 
 
