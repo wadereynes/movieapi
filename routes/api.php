@@ -3,7 +3,7 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\api\CategoryController as CategoryIndex;
-use App\Http\Controllers\api\MovieCOntroller as MovieIndex;
+use App\Http\Controllers\api\MovieCntroller as MovieIndex;
 
 /*
 |--------------------------------------------------------------------------
