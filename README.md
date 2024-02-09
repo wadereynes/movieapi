@@ -33,7 +33,7 @@ OR
 
 https://wadereynes.com/api/movies
 
-https://wadereynes.com/api/movies/1
+https://wadereynes.com/api/movie/1
 
 ```
 
